@@ -1,10 +1,13 @@
+<div align="center">
+
 # 🛡️ Recolector de Credenciales - Post-Explotación 🐍
 
-![Screenshot](https://github.com/user-attachments/assets/833dea9e-11d3-4a91-86c0-6c31a9c6e096)
+<img src="https://github.com/user-attachments/assets/833dea9e-11d3-4a91-86c0-6c31a9c6e096" alt="Screenshot" width="500"/>
 
-Herramienta de post-explotación para sistemas Windows que permite extraer credenciales guardadas en navegadores basados en Chromium (Chrome, Edge, Brave, Opera GX). Ideal para auditorías de seguridad locales.
+Herramienta de post-explotación para sistemas Windows que permite extraer credenciales guardadas en navegadores basados en Chromium (Chrome, Edge, Brave, Opera GX).  
+Ideal para auditorías de seguridad locales.
 
----
+</div>
 
 ## ⚙️ Características
 
